@@ -1,10 +1,5 @@
 #! python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 30 01:45:50 2015
-
-@author: jkeidos
-"""
 
 import glob
 import ntpath
